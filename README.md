@@ -42,6 +42,8 @@ Trained to predict: 1=Positive or 0=Negative
 ⚠️ Data Dependency: Requires labeled training data for good accuracy
 
 7.The Dataset we used in Sentiment Analysis.
+
+
 ![dataset](https://github.com/user-attachments/assets/f4ddd8de-3137-4f9f-8ae2-c0eecd01d542)
 
 8. Practical Applications
