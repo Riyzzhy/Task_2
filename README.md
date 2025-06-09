@@ -41,11 +41,14 @@ Trained to predict: 1=Positive or 0=Negative
 ⚠️ Context Understanding: Struggles with sarcasm or mixed sentiments
 ⚠️ Data Dependency: Requires labeled training data for good accuracy
 
-7. Practical Applications
+7.The Dataset we used in Sentiment Analysis.
+![dataset](https://github.com/user-attachments/assets/f4ddd8de-3137-4f9f-8ae2-c0eecd01d542)
+
+8. Practical Applications
 📈 Business Analytics: Track product/service sentiment trends
 📱 Chatbots/AI: Auto-flag negative feedback for urgent response
 ⭐ Review Platforms: Filter positive/negative reviews automatically
 
-8. Sample Output
+9. Sample Output
 Review: "Love this phone!" → Positive (98% confidence)  
 Review: "Battery dies quickly" → Negative (91% confidence)  
